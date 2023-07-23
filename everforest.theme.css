@@ -1,0 +1,41 @@
+/**
+ * @name everforest
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=monospace:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 58,81,93;
+  --accentcolor2: 214,153,182;
+  --linkcolor: 127,187,179;
+  --mentioncolor: 219,188,127;
+  --textbrightest: 211,198,170;
+  --textbrighter: 211,198,170;
+  --textbright: 211,198,170;
+  --textdark: 157,169,160;
+  --textdarker: 133,146,137;
+  --textdarkest: 122,132,120;
+  --font: monospace;
+  --backgroundaccent: 79,88,94;
+  --backgroundprimary: 71,82,88;
+  --backgroundsecondary: 61,72,77;
+  --backgroundsecondaryalt: 52,63,68;
+  --backgroundtertiary: 45,53,61;
+  --backgroundfloating: 35,42,46;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
